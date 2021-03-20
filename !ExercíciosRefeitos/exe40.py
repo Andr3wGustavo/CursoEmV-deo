@@ -12,5 +12,5 @@ if (grade1 + grade2 + grade3) / 3 < 5.0:
 elif 5.0 > (grade1 + grade2 + grade3) / 3 < 6.9:
     print(f'The studend will be in RECOVERY')
 else:
-    print(f'The studed is APPROVED ')
+    print(f'The studend is APPROVED ')
 # it just make the average by summing and dividing
