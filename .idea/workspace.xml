@@ -2,170 +2,48 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="24282bdf-435e-4841-8e70-1e42ab666bc2" name="Changes" comment="">
-      <change beforePath="$PROJECT_DIR$/!!Exercícios/!ListaDeCores.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/!!Exercícios/ex000.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/!!Exercícios/ex001.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/!!Exercícios/ex002.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/!!Exercícios/ex003.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/!!Exercícios/ex004.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/!!Exercícios/ex005.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/!!Exercícios/ex006.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/!!Exercícios/ex007.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/!!Exercícios/ex008.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/!!Exercícios/ex009.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/!!Exercícios/ex010.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/!!Exercícios/ex011.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/!!Exercícios/ex012.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/!!Exercícios/ex013.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/!!Exercícios/ex014.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/!!Exercícios/ex015.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/!!Exercícios/ex016.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/!!Exercícios/ex017.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/!!Exercícios/ex018.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/!!Exercícios/ex019.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/!!Exercícios/ex020.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/!!Exercícios/ex021.mp3" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/!!Exercícios/ex021.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/!!Exercícios/ex022.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/!!Exercícios/ex023.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/!!Exercícios/ex024.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/!!Exercícios/ex025.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/!!Exercícios/ex026.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/!!Exercícios/ex027.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/!!Exercícios/ex028.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/!!Exercícios/ex029.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/!!Exercícios/ex030.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/!!Exercícios/ex031.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/!!Exercícios/ex032.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/!!Exercícios/ex033.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/!!Exercícios/ex033b.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/!!Exercícios/ex033c.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/!!Exercícios/ex034.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/!!Exercícios/ex035.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/!!Exercícios/ex036.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/!!Exercícios/ex037.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/!!Exercícios/ex038.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/!!Exercícios/ex039.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/!!Exercícios/ex040.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/!!Exercícios/ex041.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/!!Exercícios/ex042.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/!!Exercícios/ex043.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/!!Exercícios/ex044.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/!!Exercícios/ex045.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/!!Exercícios/ex045b.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/!!Exercícios/ex046.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/!!Exercícios/ex047.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/!!Exercícios/ex048.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/!!Exercícios/ex049.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/!!Exercícios/ex049b.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/!!Exercícios/ex050.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/!!Exercícios/ex051.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/!!Exercícios/ex051b.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/!!Exercícios/ex052.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/!!Exercícios/ex053.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/!!Exercícios/ex054.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/!!Exercícios/ex055.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/!!Exercícios/ex056.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/!!Exercícios/ex057.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/!!Exercícios/ex058.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/!!Exercícios/ex059.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/!!Exercícios/ex060.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/!!Exercícios/ex061.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/!!Exercícios/ex062.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/!!Exercícios/ex063.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/!!Exercícios/ex064.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/!!Exercícios/ex065.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/!!Exercícios/ex066.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/!!Exercícios/ex067.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/!!Exercícios/ex068.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/!!Exercícios/ex068b.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/!!Exercícios/ex069.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/!!Exercícios/ex069b.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/!!Exercícios/ex070.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/!!Exercícios/ex071.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/!!Exercícios/ex072.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/!!Exercícios/ex52b.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/!!Exercícios/ex57b.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/!!Exercícios/ex60b.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/!!Exercícios/ex66b.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/!Aulas Teste/aula07.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/!Aulas Teste/aula08.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/!Aulas Teste/aula08b.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/!Aulas Teste/aula09.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/!Aulas Teste/aula10.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/!Aulas Teste/aula10b.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/!Aulas Teste/aula12.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/!Aulas Teste/aula13.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/!Aulas Teste/aula13b.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/!Aulas Teste/aula14.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/!Aulas Teste/aula14b.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/!Aulas Teste/aula14c.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/!Aulas Teste/aula14d.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/!Aulas Teste/aula15.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/!ExercíciosRefeitos/ex1.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/!ExercíciosRefeitos/ex10.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/!ExercíciosRefeitos/ex11.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/!ExercíciosRefeitos/ex12.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/!ExercíciosRefeitos/ex13.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/!ExercíciosRefeitos/ex14.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/!ExercíciosRefeitos/ex15.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/!ExercíciosRefeitos/ex16.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/!ExercíciosRefeitos/ex17.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/!ExercíciosRefeitos/ex18.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/!ExercíciosRefeitos/ex19.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/!ExercíciosRefeitos/ex2.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/!ExercíciosRefeitos/ex20.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/!ExercíciosRefeitos/ex21.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/!ExercíciosRefeitos/ex22.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/!ExercíciosRefeitos/ex23.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/!ExercíciosRefeitos/ex24.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/!ExercíciosRefeitos/ex25.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/!ExercíciosRefeitos/ex26.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/!ExercíciosRefeitos/ex27.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/!ExercíciosRefeitos/ex28.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/!ExercíciosRefeitos/ex29.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/!ExercíciosRefeitos/ex3.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/!ExercíciosRefeitos/ex30.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/!ExercíciosRefeitos/ex4.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/!ExercíciosRefeitos/ex5.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/!ExercíciosRefeitos/ex6.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/!ExercíciosRefeitos/ex7.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/!ExercíciosRefeitos/ex8.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/!ExercíciosRefeitos/ex9.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/!ExercíciosRefeitos/exe31.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/!ExercíciosRefeitos/exe32.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/!ExercíciosRefeitos/exe33.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/!ExercíciosRefeitos/exe34.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/!ExercíciosRefeitos/exe35.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/!ExercíciosRefeitos/exe36.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/!ExercíciosRefeitos/exe37.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/!ExercíciosRefeitos/exe38.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/!ExercíciosRefeitos/exe39.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/!ExercíciosRefeitos/exe40.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/!ExercíciosRefeitos/exe41.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/!ExercíciosRefeitos/exe42.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/!ExercíciosRefeitos/exe43.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/.gitignore" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/CursoEmV-deo.iml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/inspectionProfiles/Project_Default.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/inspectionProfiles/profiles_settings.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/inspectionProfiles/profiles_settings.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/LICENSE" beforeDir="false" />
+      <change afterPath="$PROJECT_DIR$/Aulas Teste/aula16.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ETC/Exercícios/ex073.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ETC/Exercícios/ex074.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ETC/Exercícios/ex075.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ETC/Exercícios/ex076.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ETC/Exercícios/ex077.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ETC/Exercícios/ex078.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ETC/Exercícios/ex079.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ETC/Exercícios/ex080.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ETC/Exercícios/ex072.py" beforeDir="false" afterPath="$PROJECT_DIR$/ETC/Exercícios/ex072.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Python Script" />
+      </list>
+    </option>
+  </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="GitSEFilterConfiguration">
+    <file-type-list>
+      <filtered-out-file-type name="LOCAL_BRANCH" />
+      <filtered-out-file-type name="REMOTE_BRANCH" />
+      <filtered-out-file-type name="TAG" />
+      <filtered-out-file-type name="COMMIT_BY_MESSAGE" />
+    </file-type-list>
   </component>
   <component name="MarkdownSettingsMigration">
     <option name="stateVersion" value="1" />
   </component>
   <component name="ProjectId" id="22cuKEAyp21krZ0KwTOaGp26xHm" />
-  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
@@ -174,9 +52,30 @@
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
-    <property name="settings.editor.selected.configurable" value="editor.preferences.fonts.default" />
+    <property name="settings.editor.selected.configurable" value="proofread" />
   </component>
-  <component name="RunManager" selected="Python.ex066">
+  <component name="RunManager" selected="Python.ex072">
+    <configuration name="aula16" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="CursoEmVideo" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Aulas Teste" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Aulas Teste/aula16.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
     <configuration name="ex013" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="CursoEmVideo" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -219,8 +118,31 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
+    <configuration name="ex072" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="CursoEmVideo" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/ETC/Exercícios" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/ETC/Exercícios/ex072.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Python.ex072" />
+        <item itemvalue="Python.aula16" />
         <item itemvalue="Python.ex066" />
         <item itemvalue="Python.ex013" />
       </list>
@@ -236,5 +158,16 @@
       <updated>1640149153286</updated>
     </task>
     <servers />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
   </component>
 </project>
