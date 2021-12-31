@@ -19,10 +19,10 @@ sleep(0.5)
 print('PO!!!')
 sleep(0.5)
 
-print('-=' * 10)
+print('-=' * 12)
 print(f'Computador jogou {pc}')
 print(f'Jogador jogou {escolha}')
-print('-=' * 10)
+print('-=' * 12)
 
 if opc == 0 and pc == 'TESOURA' or opc == 1 and pc == 'PEDRA' or opc == 2 and pc == 'PAPEL':
     result = 'JOGADOR VENCE'
